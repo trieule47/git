@@ -26,13 +26,20 @@
     "react-native-gesture-handler": "^1.5.6",
     "react-native-image-slider-box": "^1.0.12",
     "react-native-ionicons": "^5.0.0-beta",
+<<<<<<< HEAD
     "react-native-reanimated": "^1.4.0",
     "react-native-safe-area-context": "^0.6.0",
     "react-native-screens": "^2.0.0-alpha.12",
+=======
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "0.6.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-star-rating": "^1.1.0",
+>>>>>>> f963ce60c489823c31b9654f9ffaea8f070b9660
     "react-native-tab-view": "^2.13.0",
     "react-native-vector-icons": "^6.6.0",
     "react-native-web": "~0.11.7",
-    "react-native-webview": "^8.1.2",
+    "react-native-webview": "^9.0.1",
     "react-native-woocommerce-api": "^1.0.12"
   },
   "devDependencies": {
